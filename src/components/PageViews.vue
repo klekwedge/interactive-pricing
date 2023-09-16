@@ -13,6 +13,7 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+@import "../style.scss";
 .page-views {
   text-transform: uppercase;
   font-weight: $extra-bold;

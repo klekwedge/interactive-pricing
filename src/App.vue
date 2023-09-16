@@ -5,6 +5,7 @@
       paragraph="Sign-up for our 30-day trial. No credit card required."
     />
     <div class="main-content--price-module">
+      <PriceControl />
       <div class="advantages-and-button">
         <AdvantagesList
           item1="Unlimited websites"
@@ -21,6 +22,8 @@
 import Text from "./components/Text.vue";
 import AdvantagesList from "./components/AdvantagesList.vue";
 import Button from "./components/Button.vue";
+import PriceControl from "./components/PriceControl.vue";
+
 
 export default {
   components: {

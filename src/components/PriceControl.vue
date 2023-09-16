@@ -34,6 +34,7 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+@import "../style.scss";
 .price-control {
     padding: 50px;
     border-bottom: 1px solid $neutral-light-grayish-blue;

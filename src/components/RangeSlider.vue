@@ -43,6 +43,7 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+@import "../style.scss";
 .range {
   width: 100%;
 
