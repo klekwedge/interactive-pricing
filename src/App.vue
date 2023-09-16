@@ -28,6 +28,9 @@ import PriceControl from "./components/PriceControl.vue";
 export default {
   components: {
     Text,
+    AdvantagesList,
+    Button,
+    PriceControl
   },
 };
 </script>

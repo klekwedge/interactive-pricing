@@ -18,7 +18,7 @@ export default {
 @import "../style.scss";
 
 .hero-text {
-  background-image: url("~@/assets/img/pattern-circles.svg");
+  background-image: url("../assets/img/pattern-circles.svg");
   background-repeat: no-repeat;
   background-position: center;
   display: flex;

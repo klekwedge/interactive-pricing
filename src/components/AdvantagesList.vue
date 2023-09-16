@@ -26,7 +26,7 @@ export default {
     font-size: 0.8rem;
 
     &::before {
-      content: url("~@/assets/img/icon-check.svg");
+      content: url("../assets/img/icon-check.svg");
       margin-right: 10px;
     }
   }

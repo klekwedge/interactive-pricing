@@ -73,7 +73,7 @@ export default {
       border-radius: 50px;
       background-color: $primary-strong-cyan;
       cursor: pointer;
-      background-image: url("~@/assets/img/icon-slider.svg");
+      background-image: url("../assets/img/icon-slider.svg");
       background-repeat: no-repeat;
       background-position: center;
     }
