@@ -17,6 +17,8 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+@import "../style.scss";
+
 .advantages-list {
   .advantages-list__item {
     line-height: 1.7rem;

@@ -15,6 +15,8 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+@import "../style.scss";
+
 .hero-text {
   background-image: url("~@/assets/img/pattern-circles.svg");
   background-repeat: no-repeat;
