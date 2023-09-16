@@ -36,7 +36,6 @@ export default createStore({
                     state.viewsQuantity = '100K'
             }
         },
-
         SET_DISCOUNT(state, isChecked) {
             state.checked = isChecked
         },
